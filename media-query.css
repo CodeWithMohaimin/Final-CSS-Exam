@@ -1,0 +1,17 @@
+@media (max-width: 1094px) {
+  .hero_section {
+    justify-content: center;
+    gap: 3rem;
+    text-align: center;
+  }
+}
+@media (max-width: 640px) {
+  .hero_text h1 {
+    font-size: 2rem;
+    padding-bottom: 1.5rem;
+  }
+  .hero_text p {
+    font-size: 1rem;
+    padding-bottom: 2rem;
+  }
+}
